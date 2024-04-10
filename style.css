@@ -1,0 +1,145 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2e2e2d;
+}
+
+a:link {
+    text-decoration: none;
+    font-size: 2rem;
+    color: blue;
+    font-size: large; 
+}
+
+a:hover {
+    color:red;
+}
+
+section h3 {
+    position: absolute;
+    font-size: 1rem;
+    color: burlywood;
+    top: 2rem;
+    left: 4rem;
+    font-style: italic;
+}
+
+section div {
+    position: absolute;
+    left: 25rem;
+    top: 8rem;
+}
+
+.homepage {
+    background-image: url(images/lion.png);
+    width: 40rem;
+    height: 30rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+div.homepage h1 {
+    font-family: sans-serif;
+    font-weight: 800;
+    color: white;
+    font-size: 3rem;
+    margin-top: 9rem;
+    margin-bottom: 1.2rem;
+    margin-left: 2rem;
+}
+
+div.homepage p {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: 100;
+    margin-bottom: 1.6rem;
+}
+
+div.homepage h2 {
+    position: absolute;
+    width: 6rem;
+    height: 2.5rem;
+    border: none;
+    font-weight: bold;
+    margin-left: 12rem;
+    background-color: white;
+}
+
+.log {
+    color: blue;
+}
+
+button {
+    width: 6rem;
+    height: 2.5rem;
+    border: none;
+    font-size: 0.7rem;
+    font-weight: bold;
+    margin-left: 20rem;
+}
+/*
+
+h2 {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.i {
+    position: absolute;
+    top: 10rem;
+    left: 0.1rem;
+    padding: 1rem;
+    background-color: burlywood;
+    border-radius: 3rem;
+}
+
+.ii {
+    position: absolute;
+    top: 10rem;
+    left: 22.3rem;
+    padding: 1rem;
+    background-color: burlywood;
+    border-radius: 3rem;
+}
+
+.iii {
+    position: absolute;
+    top: 20rem;
+    left: 9.6rem;
+    padding: 1rem;
+    background-color: burlywood;
+    border-radius: 3rem;
+}
+
+.survey {
+    padding: 1rem;
+    background-color: burlywood;
+    border-radius: 3rem;
+}
+
+.x {
+    color: gold;
+}
+
+a:link {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: gold;
+}
+
+a:hover {
+    color: red;
+}
+
+.forum {
+    padding: 1rem;
+    background-color: burlywood;
+    border-radius: 3rem;
+}
