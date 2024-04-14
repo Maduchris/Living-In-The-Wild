@@ -10,3 +10,8 @@ Also, consider the following:
 Privacy and Sensitivity: Ensure the platform upholds local communities' rights to confidentiality and sensitivity and put safeguards in place to safeguard culturally sensitive data.
 Accessibility: Provide a user-friendly and accessible platform for community members with different degrees of technological expertise.
 Local Input: To guarantee that the platform satisfies their requirements and preferences, involve local communities in its design and continuous growth.
+
+To open Living-in-the-wild
+Click on this link: https://living-in-the-wild.vercel.app/
+Sign up and become a member
+And just enjoy the Wildlife experience
