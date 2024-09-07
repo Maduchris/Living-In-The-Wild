@@ -15,3 +15,4 @@ To open Living-in-the-wild
 Click on this link: https://living-in-the-wild.vercel.app/
 Sign up and become a member
 And just enjoy the Wildlife experience
+Thank you
